@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekhikaShishodia
 - 👀 I’m interested in learning new technologies particularly in the field of IOT and software development
-- 🌱 I’m currently learning Android Application Development in kotlin
-- 💞️ I’m looking to collaborate with my skiils in the field of Software development
+- 🌱 I’m currently learning full stack web development in javaScript
+- 💞️ I’m looking forward to collaborate with my skiils in the field of Software development
 
 
 <!---
